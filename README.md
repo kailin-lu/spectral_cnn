@@ -2,6 +2,7 @@
 
 Status: 
  - Spectral pooling complete 
+ 
  TO DO: Implementation of back propogation for spectral convolution 
  
 The notebook spectral_pool_example.ipynb contains and example of spectral pooling in comparsion to max pooling implemented in Pytorch. 
