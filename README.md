@@ -1,5 +1,9 @@
 # Assignment 2 Spectral Rep Reproduction in Pytorch 
 
+Status: 
+ - Spectral pooling complete 
+ TO DO: Implementation of back propogation for spectral convolution 
+ 
 The notebook spectral_pool_example.ipynb contains and example of spectral pooling in comparsion to max pooling implemented in Pytorch. 
 
 In addition, it gives one example of a forward and backward pass of spectral pooling. 
